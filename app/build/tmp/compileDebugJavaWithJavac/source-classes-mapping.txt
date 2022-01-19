@@ -1,0 +1,2 @@
+me/digitalinnovationone/simulator/BuildConfig.java
+ me.digitalinnovationone.simulator.BuildConfig
